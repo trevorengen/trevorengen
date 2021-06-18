@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trevorengen
 - 👀 I’m interested in python, java, and web development with a focus on AI.
-- 🌱 I’m currently learning tensorflow, keras, and a full web stack (node first then django).
+- 🌱 I’m currently learning tensorflow, keras, and all about web dev.
 - 💞️ I’m looking to collaborate on anything I can help with. I want to learn!
 - 📫 Contact me on here, I am doing my best to check frequently. Feel free to email me at trevorengen@gmail.com as well.
