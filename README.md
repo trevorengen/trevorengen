@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on anything I can help with. I want to learn!
 - 📫 Contact me on here, I am doing my best to check frequently. Feel free to email me at trevorengen@gmail.com as well.
 - 🧪 Find me on kaggle at https://www.kaggle.com/trevorengen.
+- 🔗 Find me on linkedin at https://www.linkedin.com/in/trevor-engen-0179b8136/.
