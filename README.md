@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @trevorengen
-- 👀 I’m interested in javascript, c#, python, java, and web development and love machine learning.
-- 💞️ I’m looking to collaborate on anything I can help with. I want to learn!
-- 📫 Contact me on here, I am doing my best to check frequently. Feel free to email me at trevorengen@gmail.com as well.
+- 👀 I’m interested in javascript, c#, python, java, AI/ML, PowerShell, automation, and web design.
+- 📫 Feel free to email me at trevorengen@gmail.com.
 - 🔗 Connect with me on linkedin at https://www.linkedin.com/in/trevor-engen
-- 🧪 Find me on kaggle at https://www.kaggle.com/trevorengen.
